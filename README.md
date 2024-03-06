@@ -1,1 +1,6 @@
 # my_apps
+In this repo I started adding some projects to showcase my skills. Unfortunately most of my work I have done at NASA and in my company Praesidium are propriearetary and I cannot share them (bummer).  
+In *coll_filt*  I created a small collaborative filtering application (collaborative_filtering.ipynb) using the MovieLens dataset. In the project I followed [this](https://developers.google.com/machine-learning/recommendation) post from Google.  
+In sem_seg I have the following projects:
+- Semantic Segmentation using Unet built from scratch (unet_oxford_pet.ipynb). To build the model I read [this](https://towardsdatascience.com/cook-your-first-u-net-in-pytorch-b3297a844cf3) blog post. 
+- Semantic Segmentation using Vision Transformer built from scratch (collaborative_filtering.ipynb). To build the model I read [this](https://peterbloem.nl/blog/transformers) post for the Transformer part and [this](efficient-image-segmentation-using-pytorch-part-4-6c86da083432) post for the specifics on the Vision Transformer.   
